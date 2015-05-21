@@ -1,2 +1,2 @@
-Este es un archivo de texto de prueba, para probar la funcionalidad de GitHub.
-Acabo de modificar el archivo. Version 0.1
+Cambiamos todo. Bueno, casi todo.
+Acabo de modificar el archivo. Version 0.2
